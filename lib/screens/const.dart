@@ -22,3 +22,5 @@ const kbottomShortDescription = "CBI New West Coast Headquarters";
 
 const kbottomLongDescription =
     "Located at Levi's Plaza along San Francisco's Embarcadero. After considering its real estate options to create a more functional, open work environment that would also support its goals to attract";
+
+// link: https://www.figma.com/file/k2IiNxmGztNQX9jxAK1WLh/CBI-Mobile?node-id=0%3A276
